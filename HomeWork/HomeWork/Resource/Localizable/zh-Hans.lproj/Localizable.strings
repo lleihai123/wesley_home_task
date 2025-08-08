@@ -1,0 +1,41 @@
+/*
+  InfoPlist.strings
+  HomeWork
+
+  Created by WesleyLei on 2025/8/6.
+  
+*/
+
+"key_app_lang" = "简中";
+"key_app_lang_login" = "登录";
+"key_app_lang_logout" = "退出登录";
+"key_app_lang_parsing_failed" = "数据解析失败";
+"key_app_lang_login_failed" = "授权失败";
+"key_app_lang_place_holder" = "请输入搜索词";
+"key_app_lang_home" = "首页";
+"key_app_lang_person" = "个人";
+"key_app_lang_error_input" = "无效输入";
+"key_app_lang_http_error_search" = "数据加载无效";
+"key_app_lang_remind_tips" = "温馨提示";
+"key_app_lang_auth_login" = "授权登录";
+"key_app_lang_auth_login_desc" = "你还没有登录，请点击“授权登录”";
+"key_app_lang_cancel" = "取消";
+"key_app_lang_net_error_desc" = "app 无法访问网络，请到设置页面授权网络";
+"key_app_lang_go_set" = "去设置";
+"key_app_lang_auth_login_error" = "授权登录失败";
+"key_app_lang_auth_login_success" = "授权登录成功";
+"key_app_lang_user_create_time" = "创建时间";
+"key_app_lang_user_update_time" = "更新时间";
+"key_app_lang_user_public_gists" = "公开的Gist数";
+"key_app_lang_user_following" = "关注其他用户数";
+"key_app_lang_user_public_repos" = "公开仓库数";
+"key_app_lang_user_followers" = "粉丝数";
+"key_app_lang_user_logout_desc" = "你确定要退出登录吗？";
+"key_app_lang_user_logout_sure" = "确定";
+"key_app_lang_set" = "设置";
+"key_app_lang_set_privacy" = "使用条款";
+"key_app_lang_set_privacy_detail" = "服务条款和用户协议";
+"key_app_lang_set_terms" = "隐私政策";
+"key_app_lang_set_terms_detail" = "数据收集和使用政策";
+"key_app_lang_set_version" = "版本号";
+

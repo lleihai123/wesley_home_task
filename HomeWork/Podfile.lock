@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Kingfisher (7.7.0)
+  - ObjectMapper (4.4.2)
+  - Toast-Swift (5.0.1)
+  - ZLPhotoBrowser (4.5.3):
+    - ZLPhotoBrowser/Core (= 4.5.3)
+  - ZLPhotoBrowser/Core (4.5.3)
+
+DEPENDENCIES:
+  - Alamofire (= 5.7.1)
+  - Kingfisher (= 7.7.0)
+  - ObjectMapper (= 4.4.2)
+  - Toast-Swift (~> 5.0.1)
+  - ZLPhotoBrowser (from `https://github.com/lleihai123hai1/ZLPhotoBrowser.git`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Kingfisher
+    - ObjectMapper
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  ZLPhotoBrowser:
+    :git: https://github.com/lleihai123hai1/ZLPhotoBrowser.git
+
+CHECKOUT OPTIONS:
+  ZLPhotoBrowser:
+    :commit: 597b42f16f3c661c20b607706275c115bb8b3246
+    :git: https://github.com/lleihai123hai1/ZLPhotoBrowser.git
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Kingfisher: f043ac666dfc96c1f37604f93effb45a7ee3a3e1
+  ObjectMapper: e6e4d91ff7f2861df7aecc536c92d8363f4c9677
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  ZLPhotoBrowser: 6955723c7ec2be71f45c6f89ba4d2bec83e73d68
+
+PODFILE CHECKSUM: 8ada330f56d55ae0b89b526bf03da3bf6add3a13
+
+COCOAPODS: 1.16.2
